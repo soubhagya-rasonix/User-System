@@ -12,5 +12,14 @@
   },
   "devDependencies": {
     "sequelize-cli": "^6.6.0"
-  }
+  },
+  "scripts": {
+    "start": "npx nodemon server.js"
+  },
+  "name": "user-system",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
 }
